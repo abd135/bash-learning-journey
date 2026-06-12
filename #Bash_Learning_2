@@ -1,0 +1,7 @@
+
+name=imam
+echo "Hello $name"
+
+#!/usr/bin/envo bash
+read -p 'Enter Your Name: ' name
+echo "hello $name"
